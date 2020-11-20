@@ -5,6 +5,6 @@ Supports:
 - Comments
 
 
-Futre plans:
+Future plans:
 - Replying to comments 
 - Like comments / replies
